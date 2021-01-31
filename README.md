@@ -1,4 +1,4 @@
 # minicart
-A good exercise to start a flutter
+A good exercise to start Flutter
 #
 See the ui.png
